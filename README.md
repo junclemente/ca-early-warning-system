@@ -11,15 +11,28 @@ This project is a part of the ADS-599 course in the Applied Data Science Program
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-yellow?logo=open-source-initiative)
 
--- **Project Status: Completed**
+
+--- 
+## 📄 Institutional Publication (Accepted)
+
+This project manuscript has been **accepted for publication** in the **Annual 2025 Capstone Chronicles** (M.S. Applied Data Science Program, University of San Diego).
+
+📘 Pre-publication version:  
+[`publication/CA_Early_Warning_System_Manuscript.pdf`](publication/CA_Early_Warning_System_Manuscript.pdf)
+
+*The Capstone Chronicles showcases selected graduate projects based on quality, rigor, and contribution to applied data science practice.*
 
 ---
+
+-- **Project Status: Completed**
 
 ### 🎥 Project Presentation (YouTube)
 
 [![Project Presentation](https://img.youtube.com/vi/c_P8pGmli64/0.jpg)](https://www.youtube.com/watch?v=c_P8pGmli64)
 
-### 📄 Whitepaper / Final Report
+### 📄 Executive Whitepaper (Non-Technical Summary)
+
+Strategic summary designed for education leaders, policymakers, and C-level stakeholders. 
 
 You can read the full capstone whitepaper here:
 
