@@ -17,8 +17,7 @@ This project is a part of the ADS-599 course in the Applied Data Science Program
 
 This project manuscript has been **accepted for publication** in the **Annual 2025 Capstone Chronicles** (M.S. Applied Data Science Program, University of San Diego).
 
-📘 Pre-publication version:  
-[`publication/CA_Early_Warning_System_Manuscript.pdf`](publication/CA_Early_Warning_System_Manuscript.pdf)
+📘 Pre-publication version: [`publication/CA_Early_Warning_System_Manuscript.pdf`](publication/CA_Early_Warning_System_Manuscript.pdf)
 
 *The Capstone Chronicles showcases selected graduate projects based on quality, rigor, and contribution to applied data science practice.*
 
