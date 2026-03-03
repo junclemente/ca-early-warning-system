@@ -45,7 +45,7 @@ To use this project, first clone the repo on your device using the command below
 
 ```bash
 git init
-git clone https://github.com/junclemente/msads_capstone.git
+git clone https://github.com/junclemente/ca-early-warning-system.git
 ```
 
 ## 🧪 Environment Setup
