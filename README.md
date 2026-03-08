@@ -10,16 +10,19 @@ This project is a part of the ADS-599 course in the Applied Data Science Program
 ![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-F37626?logo=jupyter)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-yellow?logo=open-source-initiative)
+[![Capstone Chronicles 2025](https://img.shields.io/badge/Published-Capstone%20Chronicles%202025-blue?logo=bookstack)](https://digital.sandiego.edu/capstone-chronicles/4/)
 
 
 --- 
-## 📄 Institutional Publication (Accepted)
+## 📄 Institutional Publication
 
-This project manuscript has been **accepted for publication** in the **Annual 2025 Capstone Chronicles** (M.S. Applied Data Science Program, University of San Diego).
+This project has been **officially published** in the **M.S. Applied Data Science Capstone Chronicles 2025** at the University of San Diego.
 
-📘 Pre-publication version: [`publication/CA_Early_Warning_System_Manuscript.pdf`](publication/CA_Early_Warning_System_Manuscript.pdf)
+📖 **Published record:** [Digital USD — Capstone Chronicles 2025](https://digital.sandiego.edu/capstone-chronicles/4/)
 
-*The Capstone Chronicles showcases selected graduate projects based on quality, rigor, and contribution to applied data science practice.*
+📘 **Pre-publication manuscript:** [`publication/CA_Early_Warning_System_Manuscript.pdf`](publication/CA_Early_Warning_System_Manuscript.pdf)
+
+*The Capstone Chronicles showcases graduate projects selected for quality, rigor, and contribution to applied data science practice.*
 
 ---
 
@@ -143,8 +146,8 @@ The goal is to provide California educators, policymakers, and district leaders 
 
 # 👥 Partner(s)/Contributor(s)
 
-- [Amayrani Balbuena](https://github.com/amayranib)
 - [Jun Clemente](https://github.com/junclemente)
+- [Amayrani Balbuena](https://github.com/amayranib)
 - [Tanya Ortega](https://github.com/tanyaort)
 
 # 🛠️ Methods Used
@@ -325,6 +328,11 @@ Austin, G., Hanson, T., Bala, N., & Zheng, C. (2023). Student engagement and wel
 California Department of Education. (n.d.). Retrieved October 26, 2025, from https://www.cde.ca.gov/
 
 Chen, T., Wanberg, R. C., Gouioa, E. T., Brown, M. J. S., Chen, J. C.-Y., & Kurt Kraiger, J. J. (2019). Engaging parents Involvement in K – 12 Online Learning Settings: Are We Meeting the Needs of Underserved Students? Journal of E-Learning and Knowledge Society, Vol 15 No 2 (2019): Journal of eLearning and Knowledge Society. https://doi.org/10.20368/1971-8829/1563
+
+Clemente, J., Balbuena, A., & Ortega, T. (2025). California school-level early warning system 
+for predicting graduation outcomes: A machine learning approach. In L. Dorado, P. Kamizi, 
+et al. (Eds.), *M.S. Applied Data Science - Capstone Chronicles 2025*. University of San Diego. 
+https://digital.sandiego.edu/capstone-chronicles/4
 
 Cobb, C. D. (2020). Geospatial Analysis: A New Window Into Educational Equity, Access, and Opportunity. Review of Research in Education, 44(1), 97–129. https://doi.org/10.3102/0091732X20907362
 
