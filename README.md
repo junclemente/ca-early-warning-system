@@ -284,7 +284,7 @@ Interpretability of the chosen model was not the highest priority since the pred
 
 ## 📈 Models Compared
 
-The following models were tested to compare predictive effectiveness under class imbalance conditions using PR-AUC as the primary evaluatoin metric.
+The following models were tested to compare predictive effectiveness under class imbalance conditions using PR-AUC as the primary evaluation metric.
 
 - Logistic Regression
 - Naive Bayes
