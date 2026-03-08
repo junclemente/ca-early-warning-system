@@ -16,7 +16,7 @@ This project is a part of the ADS-599 course in the Applied Data Science Program
 --- 
 ## 📄 Institutional Publication
 
-This project has been **officially published** in the **M.S. Applied Data Science Capstone Chronicles 2025** at the University of San Diego.
+This project has been **officially published** in the **M.S. Applied Data Science Capstone Chronicles 2025** at the University of San Diego (program-curated publication; not peer-reviewed).
 
 📖 **Published record:** [Digital USD — Capstone Chronicles 2025](https://digital.sandiego.edu/capstone-chronicles/4/)
 
@@ -313,7 +313,7 @@ This project is licensed under the [MIT License](./LICENSE).
 
 We thank the University of San Diego’s Applied Data Science faculty for their support and feedback throughout the ADS-599 Capstone. We also acknowledge the California Department of Education (CDE) for providing publicly accessible datasets on graduation outcomes, absenteeism, staffing, and school demographics, as well as the CalSCHLS/WestEd teams for making county-level school climate data publicly available. Their commitment to open data enabled us to build a fully reproducible, school-level Early Warning System.
 
-We also appreciate the collaborative contributions of our teammates—Amayrani Balbuena, Tanya Ortega, and Jun Clemente—in data collection, analysis, modeling, and application development.
+We also appreciate the collaborative contributions of our teammates—Jun Clemente, Amayrani Balbuena, and Tanya Ortega—in data collection, analysis, modeling, and application development.
 
 # 🤖 AI Assistance Disclosure
 
@@ -329,10 +329,7 @@ California Department of Education. (n.d.). Retrieved October 26, 2025, from htt
 
 Chen, T., Wanberg, R. C., Gouioa, E. T., Brown, M. J. S., Chen, J. C.-Y., & Kurt Kraiger, J. J. (2019). Engaging parents Involvement in K – 12 Online Learning Settings: Are We Meeting the Needs of Underserved Students? Journal of E-Learning and Knowledge Society, Vol 15 No 2 (2019): Journal of eLearning and Knowledge Society. https://doi.org/10.20368/1971-8829/1563
 
-Clemente, J., Balbuena, A., & Ortega, T. (2025). California school-level early warning system 
-for predicting graduation outcomes: A machine learning approach. In L. Dorado, P. Kamizi, 
-et al. (Eds.), *M.S. Applied Data Science - Capstone Chronicles 2025*. University of San Diego. 
-https://digital.sandiego.edu/capstone-chronicles/4
+Clemente, J., Balbuena, A., & Ortega, T. (2025). California school-level early warning system for predicting graduation outcomes: A machine learning approach. In L. Dorado, P. Kamizi, et al. (Eds.), *M.S. Applied Data Science - Capstone Chronicles 2025*. University of San Diego. https://digital.sandiego.edu/capstone-chronicles/4
 
 Cobb, C. D. (2020). Geospatial Analysis: A New Window Into Educational Equity, Access, and Opportunity. Review of Research in Education, 44(1), 97–129. https://doi.org/10.3102/0091732X20907362
 
